@@ -49,7 +49,7 @@
 	- [ ] [Capture The Ether](https://capturetheether.com/)
 	- [ ] [CyperShastra](https://ciphershastra.com/)
 	- [ ] [Damn Vulnerable DeFi (After Completing Step 10)](https://www.damnvulnerabledefi.xyz/)
-7. ☑️ DeFi Deep Dive
+8. ☑️ DeFi Deep Dive
 	- [ ] [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
 	- [ ] [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
 	- [ ] Protocol Deep Dives:
@@ -62,30 +62,30 @@
 	- [ ] [Algorithmic Stablecoins](https://chain.link/education-hub/stablecoins)
 	- [ ] Staking Rewards
 	- [ ] Vaults
-8. ☑️ DeFi Attack Vectors
+9. ☑️ DeFi Attack Vectors
 	- [ ] Flash Loan 
 		- Price Oracle Manipulation
 	- [ ] Front-Running 
 		- Sandwich attacks
 	- [ ] Rug Pulls
 		- Unlimited Token Allowance
-9. ☑️ Postmortems & BugFixes
+10. ☑️ Postmortems & BugFixes
 	- [ ] [Immunefi](https://immunefi.medium.com/)
 	- [ ] [BlockSec](https://blocksecteam.medium.com/)
 	- [ ] [SlowMist](https://slowmist.medium.com/)
 	- [ ] [Rekt News](https://rekt.news/es/)
 	- [ ] [PeckShield](https://twitter.com/peckshield)
-10. ☑️ Report Reading
+11. ☑️ Report Reading
 	- [ ] [Secureum Audit Findings 101](https://secureum.substack.com/p/audit-findings-101?s=r)
 	- [ ] [Secureum Audit Findings 201](https://secureum.substack.com/p/audit-findings-201?s=r)
 	- [ ] Consensys
 	- [ ] Trail of Bits
 	- [ ] Openzeppelin
 	- [ ] QuillAudits
-11. ☑️ Security Standards & Checklists
+12. ☑️ Security Standards & Checklists
 	- [ ] [SCSVS](https://github.com/securing/SCSVS)
 	- [ ] [Rari-Capital Solcurity](https://github.com/transmissions11/solcurity)
-12. ☑️ Arsenal Tools
+13. ☑️ Arsenal Tools
 	- [x] [Remix](https://remix.ethereum.org/)
 	- [x] [VS Code IDE](https://code.visualstudio.com/)
 	- [ ] [Slither](https://github.com/crytic/slither)
@@ -96,7 +96,7 @@
 	- [ ] [Scribble](https://github.com/ConsenSys/scribble)
 	- [ ] [BlockSec ETH / BSC Tx Analysis](https://explorer.phalcon.xyz/)
 	- [ ] [ethtx ETH Tx Analysis](https://ethtx.info/)
-13. ☑️ Continuous Learning and Research
+14. ☑️ Continuous Learning and Research
 	- [ ] [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
 	- [ ] [Ethereum Improvement Proposals (EIPs)](https://eips.ethereum.org/)
 	- [ ] [Ethereum Magicians](https://ethereum-magicians.org/)
