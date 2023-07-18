@@ -1,12 +1,6 @@
-1.    Blockchain Fundamentals 
+1. ✅ Postmortems & BugFixes
 	- [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 	- [x] [[Proof of Work vs Proof of Stake]]
-1. ✅ Postmortems & BugFixes
-	- [ ] [Immunefi](https://immunefi.medium.com/)
-	- [ ] [BlockSec](https://blocksecteam.medium.com/)
-	- [ ] [SlowMist](https://slowmist.medium.com/)
-	- [ ] [Rekt News](https://rekt.news/es/)
-	- [ ] [PeckShield](https://twitter.com/peckshield)
 3.   ☑️ Solidity Fundamentals
 	- [ ] [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 	- [ ] [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
