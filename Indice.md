@@ -1,33 +1,39 @@
-1.   ✅ Blockchain Fundamentals 
+1.    Blockchain Fundamentals 
 	- [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 	- [x] [[Proof of Work vs Proof of Stake]]
-2.   ☑️ Solidity Fundamentals
+1. ✅ Postmortems & BugFixes
+	- [ ] [Immunefi](https://immunefi.medium.com/)
+	- [ ] [BlockSec](https://blocksecteam.medium.com/)
+	- [ ] [SlowMist](https://slowmist.medium.com/)
+	- [ ] [Rekt News](https://rekt.news/es/)
+	- [ ] [PeckShield](https://twitter.com/peckshield)
+3.   ☑️ Solidity Fundamentals
 	- [ ] [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 	- [ ] [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
 	- [ ] [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
 	- [ ] [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
-3.   ☑️ Gas Optimizations
+4.   ☑️ Gas Optimizations
 	- [ ] [Aggregated Tricks by pcaversaccio and Harikrishnan Mulackal](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966)
 	- [ ] Kaden: [Gas Optimization Tips](https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85)
 	- [ ] Juan: [Advanced Gas Optimizations](https://dev.to/juanxavier/advanced-gas-optimizations-tips-for-solidity-1j2f)
 	- [ ] Herendra-Shakya: [Solidity Gas Optimization](https://github.com/harendra-shakya/solidity-gas-optimization)
-4.   ☑️ Smart Contract Testing & Debugging
+5.   ☑️ Smart Contract Testing & Debugging
 	- [ ] [Hardhat Docs](https://hardhat.org/hardhat-runner/docs/other-guides/waffle-testing)
 	- [ ] [Better Programming Hub](https://dev.to/rodrigoherrerai/the-complete-hands-on-hardhat-tutorial-3kbd)
 	- [ ] [Code Eater - Hindi](https://www.youtube.com/watch?v=fPjCp6bca9M&list=PLgPmWS2dQHW9mucRpDVe16j9Qn74ZXqcD&index=1)
 	- [ ] [Foundry](https://www.youtube.com/watch?v=fPjCp6bca9M&list=PLgPmWS2dQHW9mucRpDVe16j9Qn74ZXqcD&index=1)
 	- [ ] [Tenderly](https://tenderly.co/)
-5.   ☑️ Token [Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
+6.   ☑️ Token [Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
 	- [ ] [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 	- [ ] [ERC 721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 	- [ ] [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
 	- [ ] [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 	- [ ] [ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/)
 	- [ ] Other Standard [ERC 2981](https://eips.ethereum.org/EIPS/eip-2981)
-6.   ☑️ Openzeppelin Helper Libraries & Contracts
+7.   ☑️ Openzeppelin Helper Libraries & Contracts
 	- [ ] [Openzeppelin Libraries](https://docs.openzeppelin.com/contracts/4.x/api/utils)
 	- [ ] [Openzeppelin Contracts](https://www.openzeppelin.com/contracts)
-7.   ☑️ Upgradeable Contracts
+8.   ☑️ Upgradeable Contracts
 	- [ ] Smart Contract Programmer - [Upgradeable Contracts](https://www.youtube.com/watch?v=JgSj7IiE4jA&t=157s)
 	- [ ] Smart Contract Programmer - [Risks of Upgradeable Contracts](https://www.youtube.com/watch?v=XmxfB5JOt1Q&t=3s)
 	- [ ] [Different Proxy Patterns](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
