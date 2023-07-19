@@ -1,6 +1,6 @@
 1. ✅ Blockchain Fundamentals
 	- [ ] [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-	- [x] [[Proof of Work vs Proof of Stake]]
+	- [x] [Proof of Work vs Proof of Stake]
 2. ☑️ Solidity Fundamentals
 	- [ ] [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 	- [ ] [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
